@@ -1,0 +1,18 @@
+.vehicle {
+  margin: auto;
+  width: 75%;
+}
+.button-div {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: space-between;
+  align-self: center;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  min-width: 10vh;
+  margin: 0, auto;
+}

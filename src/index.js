@@ -1,10 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { VehiclesProvider } from "./VehiclesContext";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  <VehiclesProvider>
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  </VehiclesProvider>,
+  document.getElementById("root")
 );

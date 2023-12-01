@@ -1,0 +1,324 @@
+{
+  "vehicles": [
+    {
+      "id": 0,
+      "make": "Lamborghini",
+      "model": "Aventador",
+      "description": "The latest version of Aventador is not only powerful, it is the most powerful Aventador ever made. With the highest-performing standard-production naturally aspirated V12 engine in Lamborghini history, it incorporates advanced technological solutions and unparalleled design.",
+      "condition": "Used - Excellent",
+      "color": "Modern Gray Metallic",
+      "price": 825914,
+      "image_url": "https://mcdn.wallpapersafari.com/medium/65/40/nSyhQH.jpg"
+    },
+    {
+      "id": 1,
+      "make": "Ferrari",
+      "model": "Stradale",
+      "description": "The Ferrari SF90 Stradale (Type F173) is a mid-engine PHEV (Plug-in Hybrid Electric Vehicle) sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with SF90 standing for the 90th anniversary of the Scuderia Ferrari racing team and 'Stradale' meaning made for the road",
+      "condition": "Used - Like-new",
+      "color": "International Red Robin",
+      "price": 511295,
+      "image_url": "https://wallpaperaccess.com/full/1446448.jpg"
+    },
+    {
+      "id": 2,
+      "make": "Porsche",
+      "model": "911 Carrera",
+      "description": "When contact with the road is even more important. When every pound less means more agility. That's when sportsmanship takes over. The 911 Carrera T is a commitment to purism. A conscious release. For increased driving pleasure.",
+      "condition": "Brand New",
+      "color": "White",
+      "price": 124900,
+      "image_url": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6Q44RtRHo9ZAaDjYu5P3I7tGW3rNbZJNKXv9Z7KcQQ%25yFN5tFAsXrw4r3wo0qnqZr8MCnR4i84tV2YN2OmNyW1QGWgCWKMUuyO9I7KMDfghQ5YCxgfNsS60DyrwQ9br3uwrD1XEUAVY1QwZoh4XP49WLrNbTOtw9xeXi69skh5H"
+    },
+    {
+      "id": 3,
+      "make": "Mercedez",
+      "model": "AMG SL63",
+      "description": "A legend born not just to race but to set records, the SL has been winning the hearts of drivers for generations. For 2022, the icon is reborn, with 577 biturbo V8 horses and a fusion of innovative tech, impeccable luxury, and inimitable style.",
+      "condition": "Used - Good Running Condition",
+      "color": "Hyper Blue Metallic",
+      "price": 178100,
+      "image_url": "https://cdn.motor1.com/images/mgl/W81OPN/s1/2023-mercedes-amg-sl43-side-view.webp"
+    },
+    {
+      "id": 4,
+      "make": "Audi",
+      "model": "TT Roadster",
+      "description": "A drop-top car with jaw-dropping looks. With its aggressive lines and powerful performance, the Audi TT Roadster is a head-turner.",
+      "condition": "Used - Good Running Condition",
+      "color": "Chronos Gray Metallic",
+      "price": "5565657",
+      "image_url": "https://img3.wallspic.com/crops/3/3/9/5/35933/35933-family_car-audi_tt_rs-rim-car-sports_car-1920x1080.jpg"
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "model": "Z4 M40i",
+      "description": "Driving memories are made of intense moments. Hitting a curve just right. Turning loose on a freeway. Dropping the top so the wind hits your hair. The BMW Z4 Roadster is the perfect machine to experience those moments.",
+      "condition": "Used - Good Running Condition",
+      "color": "Thundernight Metallic",
+      "price": 90900,
+      "image_url": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_540,q_auto:good,w_960/v1/cms/uploads/mhjuqzzadgstpaog0bzg"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "HD 2500",
+      "description": "With the unstoppable 2022 Silverado HD, you’re always in command. Powerful engines, including the enhanced Duramax 6.6L Turbo-Diesel V8, are paired with the hardworking Allison® 10-speed transmission. Add in advanced towing technology and a commanding new interior, and you’ll be in charge of your surroundings wherever you travel.",
+      "condition": "Used - Excellent Condition<",
+      "color": "Black Chrome",
+      "price": 65538,
+      "image_url": "https://cdn.wallpapersafari.com/83/20/YZIU3p.jpg",
+      "id": 7
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "description": "The 2023 Pilot makes it easy to navigate terrain that may be challenging in other vehicles. Its available all-wheel-drive system is heavily improved, delivering confidence-inspiring stability, performance, and traction. And with the fully equipped new TrailSport, Honda SUVs have never been more capable.                                                         ",
+      "condition": "Brand New",
+      "color": "Modern Steel Metallic",
+      "price": 36300,
+      "image_url": "https://www.thedrive.com/uploads/2023/01/23/2023-honda-pilot-elite-awd-review-1.jpg?auto=webp",
+      "id": 8
+    },
+    {
+      "id": 0,
+      "make": "Lamborghini",
+      "model": "Aventador",
+      "description": "The latest version of Aventador is not only powerful, it is the most powerful Aventador ever made. With the highest-performing standard-production naturally aspirated V12 engine in Lamborghini history, it incorporates advanced technological solutions and unparalleled design.",
+      "condition": "Used - Excellent",
+      "color": "Modern Gray Metallic",
+      "price": 825914,
+      "image_url": "https://mcdn.wallpapersafari.com/medium/65/40/nSyhQH.jpg"
+    },
+    {
+      "id": 1,
+      "make": "Ferrari",
+      "model": "Stradale",
+      "description": "The Ferrari SF90 Stradale (Type F173) is a mid-engine PHEV (Plug-in Hybrid Electric Vehicle) sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with SF90 standing for the 90th anniversary of the Scuderia Ferrari racing team and 'Stradale' meaning made for the road",
+      "condition": "Used - Like-new",
+      "color": "International Red",
+      "price": 511295,
+      "image_url": "https://wallpaperaccess.com/full/1446448.jpg"
+    },
+    {
+      "id": 2,
+      "make": "Porsche",
+      "model": "911 Carrera",
+      "description": "When contact with the road is even more important. When every pound less means more agility. That's when sportsmanship takes over. The 911 Carrera T is a commitment to purism. A conscious release. For increased driving pleasure.",
+      "condition": "Brand New",
+      "color": "White",
+      "price": 124900,
+      "image_url": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6Q44RtRHo9ZAaDjYu5P3I7tGW3rNbZJNKXv9Z7KcQQ%25yFN5tFAsXrw4r3wo0qnqZr8MCnR4i84tV2YN2OmNyW1QGWgCWKMUuyO9I7KMDfghQ5YCxgfNsS60DyrwQ9br3uwrD1XEUAVY1QwZoh4XP49WLrNbTOtw9xeXi69skh5H"
+    },
+    {
+      "id": 3,
+      "make": "Mercedez",
+      "model": "AMG SL63",
+      "description": "A legend born not just to race but to set records, the SL has been winning the hearts of drivers for generations. For 2022, the icon is reborn, with 577 biturbo V8 horses and a fusion of innovative tech, impeccable luxury, and inimitable style.",
+      "condition": "Used - Good Running Condition",
+      "color": "Hyper Blue Metallic",
+      "price": 178100,
+      "image_url": "https://cdn.motor1.com/images/mgl/W81OPN/s1/2023-mercedes-amg-sl43-side-view.webp"
+    },
+    {
+      "id": 4,
+      "make": "Audi",
+      "model": "TT Roadster",
+      "description": "A drop-top car with jaw-dropping looks. With its aggressive lines and powerful performance, the Audi TT Roadster is a head-turner.",
+      "condition": "Used - Good Running Condition",
+      "color": "Chronos Gray Metallic",
+      "price": "5565657",
+      "image_url": "https://img3.wallspic.com/crops/3/3/9/5/35933/35933-family_car-audi_tt_rs-rim-car-sports_car-1920x1080.jpg"
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "model": "Z4 M40i",
+      "description": "Driving memories are made of intense moments. Hitting a curve just right. Turning loose on a freeway. Dropping the top so the wind hits your hair. The BMW Z4 Roadster is the perfect machine to experience those moments.",
+      "condition": "Used - Good Running Condition",
+      "color": "Thundernight Metallic",
+      "price": 90900,
+      "image_url": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_540,q_auto:good,w_960/v1/cms/uploads/mhjuqzzadgstpaog0bzg"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "HD 2500",
+      "description": "With the unstoppable 2022 Silverado HD, you’re always in command. Powerful engines, including the enhanced Duramax 6.6L Turbo-Diesel V8, are paired with the hardworking Allison® 10-speed transmission. Add in advanced towing technology and a commanding new interior, and you’ll be in charge of your surroundings wherever you travel.",
+      "condition": "Used - Excellent Condition<",
+      "color": "Black Chrome",
+      "price": 65538,
+      "image_url": "https://cdn.wallpapersafari.com/83/20/YZIU3p.jpg",
+      "id": 7
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "description": "The 2023 Pilot makes it easy to navigate terrain that may be challenging in other vehicles. Its available all-wheel-drive system is heavily improved, delivering confidence-inspiring stability, performance, and traction. And with the fully equipped new TrailSport, Honda SUVs have never been more capable.                                                         ",
+      "condition": "Brand New",
+      "color": "Modern Steel Metallic",
+      "price": 36300,
+      "image_url": "https://www.thedrive.com/uploads/2023/01/23/2023-honda-pilot-elite-awd-review-1.jpg?auto=webp",
+      "id": 8
+    },
+    {
+      "id": 0,
+      "make": "Lamborghini",
+      "model": "Aventador",
+      "description": "The latest version of Aventador is not only powerful, it is the most powerful Aventador ever made. With the highest-performing standard-production naturally aspirated V12 engine in Lamborghini history, it incorporates advanced technological solutions and unparalleled design.",
+      "condition": "Used - Excellent",
+      "color": "Modern Gray Metallic",
+      "price": 825914,
+      "image_url": "https://mcdn.wallpapersafari.com/medium/65/40/nSyhQH.jpg"
+    },
+    {
+      "id": 1,
+      "make": "Ferrari",
+      "model": "Stradale",
+      "description": "The Ferrari SF90 Stradale (Type F173) is a mid-engine PHEV (Plug-in Hybrid Electric Vehicle) sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with SF90 standing for the 90th anniversary of the Scuderia Ferrari racing team and 'Stradale' meaning made for the road",
+      "condition": "Used - Like-new",
+      "color": "International Red",
+      "price": 511295,
+      "image_url": "https://wallpaperaccess.com/full/1446448.jpg"
+    },
+    {
+      "id": 2,
+      "make": "Porsche",
+      "model": "911 Carrera",
+      "description": "When contact with the road is even more important. When every pound less means more agility. That's when sportsmanship takes over. The 911 Carrera T is a commitment to purism. A conscious release. For increased driving pleasure.",
+      "condition": "Brand New",
+      "color": "White",
+      "price": 124900,
+      "image_url": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6Q44RtRHo9ZAaDjYu5P3I7tGW3rNbZJNKXv9Z7KcQQ%25yFN5tFAsXrw4r3wo0qnqZr8MCnR4i84tV2YN2OmNyW1QGWgCWKMUuyO9I7KMDfghQ5YCxgfNsS60DyrwQ9br3uwrD1XEUAVY1QwZoh4XP49WLrNbTOtw9xeXi69skh5H"
+    },
+    {
+      "id": 3,
+      "make": "Mercedez",
+      "model": "AMG SL63",
+      "description": "A legend born not just to race but to set records, the SL has been winning the hearts of drivers for generations. For 2022, the icon is reborn, with 577 biturbo V8 horses and a fusion of innovative tech, impeccable luxury, and inimitable style.",
+      "condition": "Used - Good Running Condition",
+      "color": "Hyper Blue Metallic",
+      "price": 178100,
+      "image_url": "https://cdn.motor1.com/images/mgl/W81OPN/s1/2023-mercedes-amg-sl43-side-view.webp"
+    },
+    {
+      "id": 4,
+      "make": "Audi",
+      "model": "TT Roadster",
+      "description": "A drop-top car with jaw-dropping looks. With its aggressive lines and powerful performance, the Audi TT Roadster is a head-turner.",
+      "condition": "Used - Good Running Condition",
+      "color": "Chronos Gray Metallic",
+      "price": "5565657",
+      "image_url": "https://img3.wallspic.com/crops/3/3/9/5/35933/35933-family_car-audi_tt_rs-rim-car-sports_car-1920x1080.jpg"
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "model": "Z4 M40i",
+      "description": "Driving memories are made of intense moments. Hitting a curve just right. Turning loose on a freeway. Dropping the top so the wind hits your hair. The BMW Z4 Roadster is the perfect machine to experience those moments.",
+      "condition": "Used - Good Running Condition",
+      "color": "Thundernight Metallic",
+      "price": 90900,
+      "image_url": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_540,q_auto:good,w_960/v1/cms/uploads/mhjuqzzadgstpaog0bzg"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "HD 2500",
+      "description": "With the unstoppable 2022 Silverado HD, you’re always in command. Powerful engines, including the enhanced Duramax 6.6L Turbo-Diesel V8, are paired with the hardworking Allison® 10-speed transmission. Add in advanced towing technology and a commanding new interior, and you’ll be in charge of your surroundings wherever you travel.",
+      "condition": "Used - Excellent Condition<",
+      "color": "Black Chrome",
+      "price": 65538,
+      "image_url": "https://cdn.wallpapersafari.com/83/20/YZIU3p.jpg",
+      "id": 7
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "description": "The 2023 Pilot makes it easy to navigate terrain that may be challenging in other vehicles. Its available all-wheel-drive system is heavily improved, delivering confidence-inspiring stability, performance, and traction. And with the fully equipped new TrailSport, Honda SUVs have never been more capable.                                                         ",
+      "condition": "Brand New",
+      "color": "Modern Steel Metallic",
+      "price": 36300,
+      "image_url": "https://www.thedrive.com/uploads/2023/01/23/2023-honda-pilot-elite-awd-review-1.jpg?auto=webp",
+      "id": 8
+    },
+    {
+      "id": 0,
+      "make": "Lamborghini",
+      "model": "Aventador",
+      "description": "The latest version of Aventador is not only powerful, it is the most powerful Aventador ever made. With the highest-performing standard-production naturally aspirated V12 engine in Lamborghini history, it incorporates advanced technological solutions and unparalleled design.",
+      "condition": "Used - Excellent",
+      "color": "Modern Gray Metallic",
+      "price": 825914,
+      "image_url": "https://mcdn.wallpapersafari.com/medium/65/40/nSyhQH.jpg"
+    },
+    {
+      "id": 1,
+      "make": "Ferrari",
+      "model": "Stradale",
+      "description": "The Ferrari SF90 Stradale (Type F173) is a mid-engine PHEV (Plug-in Hybrid Electric Vehicle) sports car produced by the Italian automobile manufacturer Ferrari. The car shares its name with the SF90 Formula One car with SF90 standing for the 90th anniversary of the Scuderia Ferrari racing team and 'Stradale' meaning made for the road",
+      "condition": "Used - Like-new",
+      "color": "International Red",
+      "price": 511295,
+      "image_url": "https://wallpaperaccess.com/full/1446448.jpg"
+    },
+    {
+      "id": 2,
+      "make": "Porsche",
+      "model": "911 Carrera",
+      "description": "When contact with the road is even more important. When every pound less means more agility. That's when sportsmanship takes over. The 911 Carrera T is a commitment to purism. A conscious release. For increased driving pleasure.",
+      "condition": "Brand New",
+      "color": "White",
+      "price": 124900,
+      "image_url": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6Q44RtRHo9ZAaDjYu5P3I7tGW3rNbZJNKXv9Z7KcQQ%25yFN5tFAsXrw4r3wo0qnqZr8MCnR4i84tV2YN2OmNyW1QGWgCWKMUuyO9I7KMDfghQ5YCxgfNsS60DyrwQ9br3uwrD1XEUAVY1QwZoh4XP49WLrNbTOtw9xeXi69skh5H"
+    },
+    {
+      "id": 3,
+      "make": "Mercedez",
+      "model": "AMG SL63",
+      "description": "A legend born not just to race but to set records, the SL has been winning the hearts of drivers for generations. For 2022, the icon is reborn, with 577 biturbo V8 horses and a fusion of innovative tech, impeccable luxury, and inimitable style.",
+      "condition": "Used - Good Running Condition",
+      "color": "Hyper Blue Metallic",
+      "price": 178100,
+      "image_url": "https://cdn.motor1.com/images/mgl/W81OPN/s1/2023-mercedes-amg-sl43-side-view.webp"
+    },
+    {
+      "id": 4,
+      "make": "Audi",
+      "model": "TT Roadster",
+      "description": "A drop-top car with jaw-dropping looks. With its aggressive lines and powerful performance, the Audi TT Roadster is a head-turner.",
+      "condition": "Used - Good Running Condition",
+      "color": "Chronos Gray Metallic",
+      "price": "5565657",
+      "image_url": "https://img3.wallspic.com/crops/3/3/9/5/35933/35933-family_car-audi_tt_rs-rim-car-sports_car-1920x1080.jpg"
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "model": "Z4 M40i",
+      "description": "Driving memories are made of intense moments. Hitting a curve just right. Turning loose on a freeway. Dropping the top so the wind hits your hair. The BMW Z4 Roadster is the perfect machine to experience those moments.",
+      "condition": "Used - Good Running Condition",
+      "color": "Thundernight Metallic",
+      "price": 90900,
+      "image_url": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_540,q_auto:good,w_960/v1/cms/uploads/mhjuqzzadgstpaog0bzg"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "HD 2500",
+      "description": "With the unstoppable 2022 Silverado HD, you’re always in command. Powerful engines, including the enhanced Duramax 6.6L Turbo-Diesel V8, are paired with the hardworking Allison® 10-speed transmission. Add in advanced towing technology and a commanding new interior, and you’ll be in charge of your surroundings wherever you travel.",
+      "condition": "Used - Excellent Condition<",
+      "color": "Black Chrome",
+      "price": 65538,
+      "image_url": "https://cdn.wallpapersafari.com/83/20/YZIU3p.jpg",
+      "id": 7
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "description": "The 2023 Pilot makes it easy to navigate terrain that may be challenging in other vehicles. Its available all-wheel-drive system is heavily improved, delivering confidence-inspiring stability, performance, and traction. And with the fully equipped new TrailSport, Honda SUVs have never been more capable.                                                         ",
+      "condition": "Brand New",
+      "color": "Modern Steel Metallic",
+      "price": 36300,
+      "image_url": "https://www.thedrive.com/uploads/2023/01/23/2023-honda-pilot-elite-awd-review-1.jpg?auto=webp",
+      "id": 8
+    }
+  ]
+}
